@@ -2,7 +2,6 @@
 <h3 align="center"> CSE Student @ BRAC University | Data Analyst Enthusiast </h3>
 
 <p align="center">
-   href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tangerine&size=38&pause=1000&color=CC7CD9&width=435&lines=Data+Analyst+Enthusiast" alt="Typing SVG" />
 </p>
 
