@@ -18,7 +18,7 @@
 - 🐍 Working with **Python, SQL, Excel & Data Visualization tools**
 - 🤖 Interested in **AI, Machine Learning & data-driven decision making**
 - 🧠 Love solving problems **using logic, patterns, and real-world datasets**
-📫 Reach me at: **alizehnurraisa@gmail.com**
+- 📫 Reach me at: **alizehnurraisa@gmail.com**
 
 ---
 
