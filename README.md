@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nur Raisa</h1>
-<h3 align="center"> CSE Student @ BRAC University | Data Analyst Enthusiast </h3>
+<h3 align="center"> CSE Student @ BRAC University | Data Engineer Enthusiast </h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tangerine&size=38&pause=1000&color=CC7CD9&width=435&lines=Data+Analyst+Enthusiast" alt="Typing SVG" />
