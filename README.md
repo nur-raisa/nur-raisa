@@ -14,7 +14,7 @@
 
 ### About Me
 - 🎓 **CSE Student** at BRAC University (Batch 2024–2028)
-- 📈 **Aspiring Data Analyst** passionate about turning data into insights
+- 📈 **Aspiring Data Engineer** passionate about turning data into insights
 - 🐍 Working with **Python, SQL, Excel & Data Visualization tools**
 - 🤖 Interested in **AI, Machine Learning & data-driven decision making**
 - 🧠 Love solving problems **using logic, patterns, and real-world datasets**
